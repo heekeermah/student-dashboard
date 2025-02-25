@@ -1,1 +1,5 @@
-pip freeze > requirements.txt
+pandas
+jupyter-dash 
+dash pandas 
+plotly 
+openpyxl
